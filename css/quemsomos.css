@@ -1,0 +1,33 @@
+    
+    
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(107, 107, 107);
+}
+    .contatos{
+      
+      display: inline-block;
+      text-align: center;
+      border: 2px solid #00ff00ef;
+    box-shadow: 0px 0px 40px   #00ff00ef, 0px 0px 20px  #00ff00fd;
+    text-shadow: 0px 0px 10px #00ff00ef, 0px  0px 3px  #00ff00fd;
+     width: 70%;
+     position: relative;
+    background-color: rgb(0, 0, 0);
+    margin: 20px;
+       font-size:18px;
+       border-radius: 20%;
+       color: white;
+       
+    }
+    .contato{
+      
+      padding: 40px;
+      position: relative;
+      left: 10%;
+     top:5%;
+    }
+   
